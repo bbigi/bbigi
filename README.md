@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hai, saya Yusran Rusydi 👋
+# Hai, saya Yusran Rusydi 
 
 ### Game Developer • 3D Artist • Informatics Student
 
